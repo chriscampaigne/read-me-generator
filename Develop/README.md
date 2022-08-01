@@ -1,7 +1,7 @@
-# portfolio-generator
+# read-me-generator
   
   ## Description 
-  prefdnon
+  read-me-generator
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -11,14 +11,14 @@
   * [Questions](#questions)
   
   ## Installation 
-  niowefniowe
+  node.js
   ## Usage 
-  qdwuno
+  node.js
   ## License 
   This project is license under MIT
   ## Contributing 
   
   ## Tests
-  npm test
+  node index.js
   ## Questions
-  If you have any questions about this projects, please contact me directly at campaignemc@gmail.com. You can view more of my projects at https://github.com/chris.
+  If you have any questions about this projects, please contact me directly at campaignemc@gmail.com. You can view more of my projects at https://github.com/chriscampaigne.
